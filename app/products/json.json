@@ -1,0 +1,116 @@
+﻿{
+    "records": [
+        {
+            "id": "50",
+            "nome": "Travesseiro Maravilha 2.0",
+            "descricao": "O melhor travesseiro para os melhores programadores",
+            "preco": "199.90",
+            "categoria_id": "2",
+            "categoria_nome": "Eletrônicos"
+        },
+        {
+            "id": "1",
+            "nome": "Celular LG P880",
+            "descricao": "Celular com tudo que você imaginou!",
+            "preco": "336.00",
+            "categoria_id": "3",
+            "categoria_nome": "Automóveis"
+        },
+        {
+            "id": "2",
+            "nome": "Celular LG Google Nexus 4",
+            "descricao": "Celular básico para seu trabalho",
+            "preco": "299.00",
+            "categoria_id": "2",
+            "categoria_nome": "Eletrônicos"
+        },
+        {
+            "id": "3",
+            "nome": "Celular Samsung Galaxy S4",
+            "descricao": "Melhor custo x benefício para o seu dia",
+            "preco": "600.00",
+            "categoria_id": "3",
+            "categoria_nome": "Automóveis"
+        },
+        {
+            "id": "6",
+            "nome": "Camiseta Stamps",
+            "descricao": "As melhores estampas em camisetas",
+            "preco": "29.00",
+            "categoria_id": "1",
+            "categoria_nome": "Moda"
+        },
+        {
+            "id": "7",
+            "nome": "Laptop Lenovo Ideapad 330",
+            "descricao": "Do maior fabricante de PCs do mundo para sua casa",
+            "preco": "399.00",
+            "categoria_id": "2",
+            "categoria_nome": "Eletrônicos"
+        },
+        {
+            "id": "8",
+            "nome": "Tablet Samsung Galaxy Tab 10.1",
+            "descricao": "Aproveite ao máximo seu conteúdo favorito",
+            "preco": "259.00",
+            "categoria_id": "2",
+            "categoria_nome": "Eletrônicos"
+        },
+        {
+            "id": "9",
+            "nome": "Smartwatch Spalding",
+            "descricao": "O smartwatch para todas suas aventuras",
+            "preco": "199.00",
+            "categoria_id": "13",
+            "categoria_nome": "Esportes"
+        },
+        {
+            "id": "10",
+            "nome": "Smartwatch Sony",
+            "descricao": "O smartwatch mais legal do momento",
+            "preco": "300.00",
+            "categoria_id": "2",
+            "categoria_nome": "Eletrônicos"
+        },
+        {
+            "id": "11",
+            "nome": "Smartband Xiaomi Mi Band 4",
+            "descricao": "Seu treino, esporte ou aventura em tempo real",
+            "preco": "100.00",
+            "categoria_id": "13",
+            "categoria_nome": "Esportes"
+        },
+        {
+            "id": "12",
+            "nome": "Camiseta Abercrombie - modelo 1",
+            "descricao": "O seu presente perfeito",
+            "preco": "60.00",
+            "categoria_id": "1",
+            "categoria_nome": "Moda"
+        },
+        {
+            "id": "13",
+            "nome": "Camiseta Abercrombie - modelo 2",
+            "descricao": "Camisetas para todos os gostos",
+            "preco": "70.00",
+            "categoria_id": "1",
+            "categoria_nome": "Moda"
+        },
+        {
+            "id": "42",
+            "nome": "Nike Zoom Masculino",
+            "descricao": "Só ele e um legítimo Nike Shoes",
+            "preco": "1299.00",
+            "categoria_id": "13",
+            "categoria_nome": "Esportes"
+        },
+        {
+            "id": "43",
+            "nome": "Amazing Pillow 3.0",
+            "descricao": "The best pillow for amazing programmers.",
+            "preco": "255.00",
+            "categoria_id": "2",
+            "categoria_nome": "Eletrônicos"
+        }
+    ]
+}

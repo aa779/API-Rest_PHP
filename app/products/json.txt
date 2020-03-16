@@ -1,0 +1,44 @@
+﻿﻿﻿{"records":
+  [
+    {
+      "id":"50",
+      "nome":"Travesseiro Maravilha 2.0",
+      "descricao":"O melhor travesseiro para os melhores programadores",
+      "preco":"199.90",
+      "categoria_id":"2",
+      "categoria_nome":"Eletr\u00f4nicos"
+    },
+    {
+      "id":"1",
+      "nome":"Celular LG P880",
+      "descricao":"Celular com tudo que voc\u00ea imaginou!",
+      "preco":"336.00",
+      "categoria_id":"3",
+      "categoria_nome":"Autom\u00f3veis"
+    },
+    {
+      "id":"2",
+      "nome":"Celular LG Google Nexus 4",
+      "descricao":"Celular b\u00e1sico para seu trabalho",
+      "preco":"299.00",
+      "categoria_id":"2",
+      "categoria_nome":"Eletr\u00f4nicos"
+    },
+    {
+      "id":"3",
+      "nome":"Celular Samsung Galaxy S4",
+      "descricao":"Melhor custo x benef\u00edcio para o seu dia",
+      "preco":"600.00",
+      "categoria_id":"3",
+      "categoria_nome":"Autom\u00f3veis"
+    },
+    {
+      "id":"6",
+      "nome":"Camiseta Stamps",
+      "descricao":"As melhores estampas em camisetas",
+      "preco":"29.00",
+      "categoria_id":"1",
+      "categoria_nome":"Moda"
+    }
+  ]
+}
